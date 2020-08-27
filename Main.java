@@ -1,7 +1,7 @@
 import java.util.*;
 
 interface f {
-	int do(); 
+	int lambda_do(); 
 }
 
 public class Main {
