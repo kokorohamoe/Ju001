@@ -1,9 +1,8 @@
 import java.util.*;
 
-interface MyFunctionalInterface {
-    int do();
-};
-
+interface NumericTest {
+	boolean computeTest(int n); 
+}
 
 public class Main {
     //https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html
