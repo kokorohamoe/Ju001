@@ -1,7 +1,7 @@
 import java.util.*;
 
 interface NumericTest {
-	boolean do(void); 
+	boolean computeTest(int n); 
 }
 
 public class Main {
