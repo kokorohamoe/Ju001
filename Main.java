@@ -1,7 +1,7 @@
 import java.util.*;
 
 interface MyFunctionalInterface {
-    public void do();
+    void do();
 };
 
 
