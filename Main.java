@@ -1,7 +1,7 @@
 import java.util.*;
 
 interface f {
-	int computeTest(); 
+	int do(); 
 }
 
 public class Main {
