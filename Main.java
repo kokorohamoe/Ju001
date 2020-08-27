@@ -9,7 +9,8 @@ public class Main {
     public static void main(String[] args) throws Exception {
             System.out.println(System.getProperty("java.version"));
         var i=1;
-        //var t = 
+        //var t =
+        f = () ->{};
         Thread t;
         (t = new Thread(() -> { System.out.println("Hello Lambda world!"); })).start();
         System.out.println("Hello world!");
