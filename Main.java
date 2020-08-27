@@ -10,7 +10,7 @@ public class Main {
             System.out.println(System.getProperty("java.version"));
         var i=1;
         //var t =
-        f = () -> { System.out.println("Hello Lambda world!"); });
+        f = () -> { System.out.println("Hello Lambda world!"); };
         Thread t;
         (t = new Thread(() -> { System.out.println("Hello Lambda world!"); })).start();
         System.out.println("Hello world!");
