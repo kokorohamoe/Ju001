@@ -1,7 +1,7 @@
 import java.util.*;
 
 interface NumericTest {
-	boolean computeTest(int n); 
+	boolean do(); 
 }
 
 public class Main {
@@ -15,6 +15,6 @@ public class Main {
         System.out.println("Hello world!");
         t.join();
         //var k =
-        MyFunctionalInterface = () -> { System.out.println("Hello Lambda world!"); };
+        //MyFunctionalInterface = () -> { System.out.println("Hello Lambda world!"); };
     }
 }
