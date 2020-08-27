@@ -1,6 +1,6 @@
 import java.util.*;
 
-interface NumericTest {
+interface f {
 	int computeTest(); 
 }
 
